@@ -1,7 +1,7 @@
 
 # Code for the Thesis work "Regional Transferability of Graph Neural Networks for Traffic Forecasting"
 
-### Author: Ivans Kravcevs, Supervisor: Elena Condeguti
+### Author: Ivans Kravcevs, Supervisor: Elena Congeduti
 
 ## Overview
 
@@ -46,7 +46,7 @@ transferability_code/
 
 ## Acknowledgments
 
-This project was developed as part of a bachelor thesis work at Delft University of Technology. Special acknowledgements to the project supervisor [Elena Condeguti](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/elena-congeduti) for guidance and support and my teammates 
+This project was developed as part of a bachelor thesis work at Delft University of Technology. Special acknowledgements to the project supervisor [Elena Congeduti](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/interactive-intelligence/people/current-group-members/elena-congeduti) for guidance and support and my teammates 
 Alex Păcurar	(*a.v.pacurar-1@student.tudelft.nl*), 
 Vlad Vrânceanu	(*v.g.vranceanu@student.tudelft.nl*),	
 Danae Savvidi	(*d.n.savvidi@student.tudelft.nl*),
